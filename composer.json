@@ -1,0 +1,29 @@
+
+
+{
+    	"name": "macroseso/telegram",
+	"description": "Api de telegram",
+	"license": "MIT",
+    "version": "1.0.0",
+    "keywords": [
+        "enzona",
+        "payment",
+        "php",
+        "sdk",
+        "api"
+    ],
+    "homepage": "https://github.com/Macroseso/telegram",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leodan Jesus Rodriguez MArtinez",
+            "homepage": "https://github.com/Macroseso/telegram"
+        }
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": { "macroseso\\telegram\\" : "lib/" }
+    }
+}
